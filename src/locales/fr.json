@@ -1,0 +1,21 @@
+{
+  "name": "Dérives",
+  "navbar.about": "À propos",
+  "navbar.gallery": "Galerie",
+  "navbar.privacy": "Confidentialité",
+  "index.description": "Une expérience poétique – visuelle et sonore – en marchant",
+  "about.title": "À propos",
+  "about.description": "Vous allez vivre une expérience poétique – visuelle et sonore – en marchant. \nSelon votre vitesse, mais aussi le moment de la journée, la saison, la température, l’environnement, votre expérience ne sera pas la même...",
+  "about.explain1": "Dérives est une application poétique pour smartphone d’un genre nouveau. Elle permet en effet d'articuler le mouvement du corps et l'écriture (entendue presque déjà comme geste, comme engagement corporel dans un espace). Ainsi, le poème écouté ou lu par l’utilisateur est corrélé à sa marche. Si l’utilisateur marche plus vite, il devient plus actif dans le texte (exemples : « Tu t’avances dans le réveil du jour », « Tu rattrapes la nuit ») ; si au contraire il ralentit voire s’arrête, il est rattrapé ou gagné par l'environnement (exemples : « Le jour t’approche et t’effleure », « La nuit te rattrape »).",
+  "about.explain2": "L’utilisateur peut choisir un mode immersif (correspondant au moment qu’il est en train de vivre) ou choisir une autre expérience (autre moment de la journée, environnement différent).",
+  "about.modes": "Il a également accès pour chaque Dérive à deux modes :",
+  "about.mode1": "un mode Écoute, qui livre le poème sous une forme exclusivement audio (mise en voix de la poétesse Marine Riguet, design sonore du compositeur Hervé Zénouda),",
+  "about.mode2": "un mode Lecture, qui donne à lire le poème à l’écran selon le rythme de marche de l’utilisateur (en jouant sur la taille de la police) et l’accompagne d’un design sonore.\nL’utilisateur peut passer de façon très fluide d’un mode à l’autre au cours d’une même Dérive.",
+  "about.thanks": "Dérives est le fruit d’une collaboration entre la poétesse Marine Riguet, le compositeur Hervé Zénouda, l'auteur et chercheur Serge Bouchardon, la chercheuse Erika Fülöp et des élèves-ingénieurs de l’Université de technologie de Compiègne (Charles Fiers, Cécile Asselin, Antonin Guyot, Maylis de Talhouet et Augustin de Laubier).",
+  "gallery.title": "Galerie",
+  "gallery.image0": "Début d'une dérive",
+  "gallery.image2": "Dérive à la campagne",
+  "gallery.image3": "Dérive en ville",
+  "gallery.image4": "Dérive en mouvement",
+  "gallery.team": "La fine équipe"
+}

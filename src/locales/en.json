@@ -1,0 +1,21 @@
+{
+  "name": "Drifts",
+  "navbar.about": "About",
+  "navbar.gallery": "Gallery",
+  "navbar.privacy": "Privacy",
+  "index.description": "Experience a poetic drift – visual and auditory – while walking",
+  "about.title": "About",
+  "about.description": "You are about to experience a poetic drift – visual and auditory – while walking. \nDepending on your pace, but also on the time of day, the season, the temperature, the surroundings, your experience will be different.",
+  "about.explain1": "Dérives (Drifts in English) is a new kind of poetic application for smartphones. It makes it possible to connect body movement and writing which can be considered here as a gesture, a bodily engagement in space. Thus the poem which is read or listened to by the user is correlated with his/her walking pace. If the user walks fast, he/she becomes more active in the text (for example : « You’re moving towards the awakening of the day », « you are catching up with the night ») alternatively, if the user slows down or even stops, he/she is caught up by his/her surroundings (for example : « the day is drawing near and brushing past you », « the night is catching up with you »).",
+  "about.explain2": "The user can either choose immersive mode (which corresponds to the present moment), or choose a different experience (another time of day, different surroundings).",
+  "about.modes": "For each drifting experience, the user has a choice between :",
+  "about.mode1": "A listening mode which highlights the role of the voice (that of Marine Riguet, the poet) and the role of the sound design (that of Hervé Zénouda, the composer)",
+  "about.mode2": "A reading mode which comes with sound design but without the voice, where the poem is displayed differently whether the user accelerates or slows down (there is a play on the font size). \nThe user can easily switch from one mode to the other as he/she walks.",
+  "about.thanks": "Dérives is the fruit of the collaboration between the poet Marine Riguet, the composer Hervé Zénouda, the author and researcher Serge Bouchardon, the researcher Erika Fülöp and a group of engineering students from the Université de technologie de Compiègne (Charles Fiers, Cécile Asselin, Antonin Guyot, Maylis de Talhouet, Augustin de Laubier).",
+  "gallery.title": "Gallery",
+  "gallery.image0": "Beginning of a drift",
+  "gallery.image2": "Country drift",
+  "gallery.image3": "City drift",
+  "gallery.image4": "Moving drift",
+  "gallery.team": "The dream team"
+}
